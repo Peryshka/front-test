@@ -165,7 +165,7 @@
   margin-left: 10.5px;
 }
 
-.product-slider{
+.product-slider {
   display: flex;
 }
 
@@ -203,6 +203,7 @@
   border-radius: 6px;
   margin: 25px 495px 0 495px;
 }
+
 /*End of Product Block*/
 /*Company Block*/
 .company-block {
@@ -321,7 +322,7 @@
   margin-right: 12px;
 }
 
-.certificate{
+.certificate {
   display: block;
   background-image: url("./img/EAC.svg");
   background-repeat: no-repeat;;
@@ -331,7 +332,7 @@
   margin-right: 12px;
 }
 
-.own-warehouses{
+.own-warehouses {
   display: block;
   background-image: url("./img/image 60.svg");
   background-repeat: no-repeat;;
@@ -341,7 +342,7 @@
   margin-right: 12px;
 }
 
-.low-prices{
+.low-prices {
   display: block;
   background-image: url("./img/image 77.svg");
   background-repeat: no-repeat;;
@@ -370,6 +371,7 @@
   height: 40px;
   margin-right: 12px;
 }
+
 /*End of Company Block*/
 /*Services Block*/
 .wrapper {
@@ -560,7 +562,7 @@
   font-weight: 600;
   font-size: 40px;
   line-height: 50.28px;
-  color:  #231F20;
+  color: #231F20;
 }
 
 .desc {
@@ -604,7 +606,7 @@
   margin-right: 30px;
 }
 
-.Bishkek-kurulush{
+.Bishkek-kurulush {
   display: block;
   background-image: url("./img/Bishkek-kurulush.svg");
   background-repeat: no-repeat;;
@@ -641,6 +643,7 @@
   display: flex;
   flex-direction: column;
 }
+
 .Altyn-kurulush {
   display: block;
   background-image: url("./img/Altyn-kurulush.svg");
@@ -685,7 +688,7 @@
   margin-right: 30px;
 }
 
-.Kg-group{
+.Kg-group {
   display: block;
   background-image: url("./img/Kg-group.svg");
   background-repeat: no-repeat;;
@@ -696,7 +699,7 @@
   margin-right: 30px;
 }
 
-.Act-buildings{
+.Act-buildings {
   display: block;
   background-image: url("./img/Act.svg");
   background-repeat: no-repeat;;
@@ -778,12 +781,13 @@
   height: 95px;
   max-height: 100%;
 }
+
 /*End of Our Partners Block*/
 /*Contact with Company Block*/
 
 .form {
   display: block;
-  background-image:linear-gradient(rgba(0, 0, 0, 0.8),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8),
   rgba(0, 0, 0, 0.8)), url("./img/metal-bg.png");
   background-repeat: no-repeat;;
   background-size: cover;
@@ -903,6 +907,7 @@
   background-color: gainsboro;
   height: 95px;
 }
+
 /*Map Block*/
 .map {
   background-color: gainsboro;
@@ -924,10 +929,11 @@
   color: #231F20;
   margin-bottom: 40px;
 }
+
 /*End of Map Block*/
 
 .space-3 {
- background-color: gainsboro;
+  background-color: gainsboro;
   height: 70px;
 }
 
@@ -946,7 +952,7 @@
 
 .footer-logo-icon {
   display: block;
-  background-image:url("./img/image 1.svg");
+  background-image: url("./img/image 1.svg");
   background-repeat: no-repeat;;
   background-size: cover;
   width: 197px;
@@ -979,7 +985,7 @@
 }
 
 .footer-item {
- font-family: "Sourse-sans-pro-semibold", sans-serif;
+  font-family: "Sourse-sans-pro-semibold", sans-serif;
   font-weight: 600;
   font-size: 16px;
   line-height: 21.28px;
@@ -996,6 +1002,7 @@
   display: flex;
   flex-direction: column;
 }
+
 
 .contact-info h3 {
   font-family: "MyFont", sans-serif;
@@ -1035,7 +1042,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 21.28px;
-  color:  #F5F5F5;
+  color: #F5F5F5;
 }
 
 .email-info {
@@ -1058,7 +1065,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 21.28px;
-  color:  #F5F5F5;
+  color: #F5F5F5;
   width: 226px;
   max-width: 100%;
 }
@@ -1085,12 +1092,13 @@
   height: 19.63px;
   margin-right: 10px;
 }
-.addresse-icon p{
+
+.addresse-icon p {
   font-family: "MyFont", sans-serif;;
   font-weight: 400;
   font-size: 16px;
   line-height: 21.28px;
-  color:  #F5F5F5;
+  color: #F5F5F5;
 }
 
 .hours {
@@ -1113,20 +1121,8 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 21.28px;
-  color:  #F5F5F5;
+  color: #F5F5F5;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /*End of Footer Block*/
